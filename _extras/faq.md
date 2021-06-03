@@ -12,13 +12,13 @@ Thank you for your interest in hosting or teaching a Genomics workshop. Below yo
 
 ### What does this workshop cover? 
 
-This workshop teaches data management and analysis for genomics research including: best practices for organization of bioinformatics projects and data, use of command line utilities, use of command line tools to analyze sequence quality and perform variant calling, and connecting to and using cloud computing. 
+This workshop teaches data management and analysis for metagenomics research including: best practices for organization of bioinformatics projects and data, use command-line tools to perform quality control, taxonomic assignment, and diversity exploration. 
 
 ### What experience do learners need to have before this workshop? What will they be able to do by the end of the workshop? 
 
-This lesson assumes no prior experience with the tools covered in the workshop. However, learners are expected to have some familiarity with biological concepts, including the concept of genomic variation within a population. By the end of the workshop, learners will be able to: 
+This lesson assumes no prior experience with the tools covered in the workshop. However, learners are expected to have some familiarity with biological concepts, including the concept of metagenomic variation within a population. By the end of the workshop, learners will be able to: 
 
-- structure their metadata, organize and document their genomics data and bioinformatics workflow, and access data on the NCBI sequence read archive (SRA) database,
+- structure their metadata, organize and document their metagenomics data and bioinformatics workflow, and access data on the NCBI sequence read archive (SRA) database,
 - navigate their file systems, create, copy, move, and remove files and directories, and automate repetitive tasks using scripts and wildcards,
 - use command-line tools to perform quality control, align reads to a reference genome, and identify and visualize between-sample variation,
 - work with Amazon AWS cloud computing and transfer data between their local computer and cloud resources.
@@ -36,14 +36,14 @@ To ensure a consistent workshop experience for learners and Instructors, all wor
 Anyone who has some experience using the Bash shell can be an effective helper for this workshop. Helpers do not need to have experience working with genomics data or the specific command line tools taught in this workshop. 
 
 ### I want to include the optional R lesson. Can I do that?
-To ensure a consistent workshop experience for learners and Instructors, all workshops organized by The Carpentries (“centrally-organized workshops”) use our stable, community-tested curriculum. The Genomics R lesson is still under development and we cannot guarantee that it will meet our high curricular standards. If you are interested in using this lesson in a self-organized workshop, all of our materials are publicly available and licensed CC-BY. For information about the difference between centrally-organized and self-organized workshops, and limitations on use of “The Carpentries” brand name and logo, see  the [Teaching and Hosting](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html) section of The Carpentries Handbook.
+To ensure a consistent workshop experience for learners and Instructors, all workshops organized by The Carpentries (“centrally-organized workshops”) use our stable, community-tested curriculum. The Metagenomics Workshop Overview is still under development and we cannot guarantee that it will meet our high curricular standards. If you are interested in using this lesson in a self-organized workshop, all of our materials are publicly available and licensed CC-BY. For information about the difference between centrally-organized and self-organized workshops, and limitations on use of “The Carpentries” brand name and logo, see  the [Teaching and Hosting](https://docs.carpentries.org/topic_folders/hosts_instructors/index.html) section of The Carpentries Handbook.
 
 ### Does the AWS image location matter? Do I need to set up an AMI in a different region if my workshop will be held outside of the Eastern US?
 
 We have run this workshop in locations across the United States and Europe with no noticeable difference in instance speed. If you experience any issues, please [let us know](mailto:team@carpentries.org).
 
 ### Where can I find more information about this workshop?
-For a full description of this workshop, including what content is covered, and what dataset we use to teach, visit the [Genomics Workshop Overview](https://datacarpentry.org/genomics-workshop/) page. 
+For a full description of this workshop, including what content is covered, and what dataset we use to teach, visit the [Metagenomics Workshop Overview](https://nselem.github.io/metagenomics-workshop/) page. 
 
 ## <a id="instructors"></a> Instructors
 
